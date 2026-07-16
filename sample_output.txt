@@ -1,1 +1,18 @@
+=============================================
+      PASSWORD STRENGTH CHECKER
+=============================================
 
+Enter Password:
+
+P@ssword123
+
+Password Analysis
+------------------------------
+
+Length: ✔
+Uppercase: ✔
+Lowercase: ✔
+Numbers: ✔
+Special Characters: ✔
+
+Password Strength : Strong
